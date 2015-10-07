@@ -54,6 +54,6 @@ public class Start extends AppCompatActivity {
 
     public void onArClicked(View view) {
         Button arButton = (Button)findViewById(R.id.button);
-        arButton.setText("The new one!");
+        arButton.setText("The new one!");//TODO AMO test commit on dev brunch
     }
 }
